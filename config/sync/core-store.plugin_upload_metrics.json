@@ -1,0 +1,9 @@
+{
+  "key": "plugin_upload_metrics",
+  "value": {
+    "weeklySchedule": "43 52 19 * * 3"
+  },
+  "type": "object",
+  "environment": null,
+  "tag": null
+}
